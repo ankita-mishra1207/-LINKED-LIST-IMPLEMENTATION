@@ -1,0 +1,9 @@
+Inserted 10
+Inserted 20
+Inserted 30
+Linked List: 10 → 20 → 30 → NULL
+Deleted 20
+Linked List: 10 → 30 → NULL
+Inserted 40
+Linked List: 10 → 30 → 40 → NULL
+Value 50 not found in list.
